@@ -1,6 +1,6 @@
 echo "Here we go!"
 mkdir ./target/app/ -p
-cp ./src/css/style.css ./target/app/
-cp ./src/js/book.js ./target/app/
-cp ./src/html/page.html ./target/app/
+cp ./src/main/css/*.css ./target/app/
+cp ./src/main/js/*.js ./target/app/
+cp ./src/main/html/*.html ./target/app/
 
