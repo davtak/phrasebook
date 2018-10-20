@@ -29,6 +29,6 @@ Or (this one too)[https://dominicstpierre.com/how-to-start-with-typescript-and-p
 
 3. `npm i --save-dev typescript preact webpack ts-loader` (+ ~43.5MB)
 
-4. Pat yourself on the back for turning a 3-files-in-production prototype into a 100MB project.
+4. Pat yourself on the back for turning a 3-files-in-production prototype into a 100MB project, and your boilerplate will go from 3KB to 28KB (but, to be fair, we'll try and make good use of that 28KB!)
 
 5. `npm i immutable` if you're feeling lucky - _don't use with (p)react, tsc can already infer types so just use setState() instead!_

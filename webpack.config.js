@@ -1,6 +1,6 @@
 module.exports = {
     mode: "development",
-    entry: "./src/bootstrap.tsx",
+    entry: "./src/main/ts/bootstrap.tsx",
     output: {
         filename: "./public/bundle.js",
     },
